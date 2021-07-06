@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Timer"
+  "defaultProject": "Timer",
+  "cli": {
+    "analytics": "13d105df-b8f5-43e6-81e9-f829004a41ea"
+  }
 }
